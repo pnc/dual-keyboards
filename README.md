@@ -1,4 +1,4 @@
-![Dual Wielding](dual.jpg)
+![Dual Wielding](dual-keyboards/raw/master/dual.jpg)
 
 DualKeyboard is a small utility to allow the use of modifier keys "across" external keyboards in OS X. This is useful for people who want to use multiple external keyboards in a split-keyboard arrangement, or because they use a foot pedal or other assistive device.
 
