@@ -1,4 +1,4 @@
-![Dual Wielding](dual-keyboards/raw/master/dual.jpg)
+![Dual Wielding](dual.jpg)
 
 ## Warning and a suggestion
 
